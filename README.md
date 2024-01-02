@@ -8,7 +8,7 @@ Implementation of Support Vector Machine (SVM) on two datasets for the classific
 
 #### Letter Recognition Dataset:
 
-The letters dataset (the textbook dataset) contains 20,000 of 26 English language letters (from A-Z). Each record contains the 16 statistical attributes obtained when the letters (glyphs) are scanned and converted to pixels and the target variable (letter). The goal is to correctly identify the letters to which the measurements belong. Essentially, a multi-class classification problem was carried out using a support vector machine (SVM)
+The letters dataset (the textbook dataset) contains 20,000 of 26 English language letters (from A-Z). Each record contains the 16 statistical attributes obtained when the letters (glyphs) are scanned and converted to pixels and the target variable (letter). The goal is to correctly identify the letters to which the measurements belong. Essentially, a multi-class classification problem was carried out using a support vector machine (SVM).
 
 #### Hotel Reservation Dataset:
 
