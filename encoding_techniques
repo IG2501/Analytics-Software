@@ -1,7 +1,3 @@
-#MH6211-Analytics Software I
-#Assignment B
-
-#In this assignment we will see different encoding methods for categorical features.
 #Categorical feature encoding is an important pre-processing step for using these 
 #features into machine learning models etc. 
 
